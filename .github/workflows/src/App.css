@@ -1,9 +1,0 @@
-.App {
-  display: grid;
-  grid-template-rows: auto 1fr auto; /* Header, content, Footer */
-  height: 100vh; /* 전체 화면 높이 */
-}
-
- .AppManin{
-  overflow: auto;
-} 
